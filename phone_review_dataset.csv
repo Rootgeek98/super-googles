@@ -1,0 +1,33 @@
+product,price_in_dollars,overall_rating,design,features,performance,camera,battery,comment
+Apple iPhone 6S,100,8.9,9,9,9,9,7,premium
+Apple iPhone 11,699,9,8,9,10,9,8,premium
+Samsung Galaxy S10E,595,8.9,9,8,9,8,10,premium
+Samsung Galaxy A50,348,8.4,8,8,8,8,10,budget
+Apple iPhone XS,489,8.8,9,9,10,9,8,premium
+Apple IPhone 8 Plus,350,8.8,8,9,10,9,8,premium
+Apple iPhone 7  Plus,252,8.8,8,9,9,9,8,premium
+OnePlus 6T,499,8.9,8,9,9,8,10,premium
+Motorolla Moto G6,149,8,8,9,8,8,6,premium
+Huawei Mate 20 Pro,805.92,9,8,9,9,9,10,premium
+LG V40 ThinQ,720,8.8,8,9,9,8,9,premium
+Huawei P20 Pro,499.99,8.4,8,8,7,8,8,budget
+Oppo Find X,677,8.8,9,8,9,9,10,premium
+Vivo X21,461.23,7.6,8,7,8,8,8,budget
+Razer Phone 2,799.66,7.2,7,7,10,6,6,budget
+Red Hydrogen One,1295,7.9,8,8,8,7,9,budget
+Google Pixel 3,419.99,8.9,8,8,9,9,9,premium
+Apple iPhone XR,599,8.9,9,9,10,8,10,premium
+Samsung  Galaxy Note 9,374.99,9,9,9,9,9,10,premium
+Samsung Galaxy Note 10 Plus ,999,9.2,9,9,9,9,10,premium
+Apple iPhone 8,449,8.4,8,8,10,8,8,budget
+OnePlus 7 Pro,689.5,8.8,8,8,9,9,9,premium
+Google Pixel 3A,399,8.2,7,7,9,9,10,budget
+LG V20,299.99,7.9,8,8,8,8,8,budget
+Samsung Galaxy S7 Edge,330,9.1,10,9,9,8,10,premium
+Motorolla Moto Z,139.99,8.3,8,9,9,7,8,budget
+Google Pixel XL,219.97,8.8,8,8,9,9,8,premium
+Samsung Galaxy Note 5,179.99,8.9,9,9,9,8,9,premium
+OnePlus 3,599.49,8.9,9,9,9,8,9,premium
+Asus ROG Phone,800,7.9,7,8,9,7,9,budget
+Nubia Red Magic Mars ,439,8,8,8,8.5,7,8,budget
+Xiaomi Black Shark,499,8,8,8,8.5,7,7.5,budget
